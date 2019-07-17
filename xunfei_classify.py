@@ -6,9 +6,6 @@
 @description:
 中文文本分类 xunfei_classify 最优
 
-训练方式：
-1. 长文本和短文本
-2. 训练数据处理方式要和实际生产环境相同
 
 步骤：
 1. 生成 Tokenizer
