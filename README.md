@@ -9,8 +9,8 @@
 - 训练模型`python xunfei_classify.py -d ./data/xfyun -n xunfei -m train`
 - 预测模型`python xunfei_classify.py -d ./data/xfyun -n xunfei -m predict`
 
-## 交流QQ群
-- 群号：826192597
+## 交流方式
+![微信：wangmouren7400](img/wechatid.jpg)
 
 ## 参考资料
 - [tokenizer](https://www.cnblogs.com/bymo/p/9675654.html)
