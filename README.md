@@ -14,6 +14,7 @@ pip install keras_bert
 # 指定数据目录，
 data_dir = './data/'
 # 将bert预训练数据放到改目录
+# https://storage.googleapis.com/bert_models/2018_11_03/chinese_L-12_H-768_A-12.zip
 BERT_PRETRAINED_DIR = './chinese_L-12_H-768_A-12/'
 # 运行
 python3 xf_bert_v2.py
@@ -25,9 +26,6 @@ python3 xf_bert_v2.py
 - 训练模型`python xunfei_classify.py -d ./data/xfyun -n xunfei -m train`
 - 预测模型`python xunfei_classify.py -d ./data/xfyun -n xunfei -m predict`
 
-
-## 交流方式
-![微信：wangmouren7400](img/wechatid.jpg)
 
 ## 参考资料
 - [tokenizer](https://www.cnblogs.com/bymo/p/9675654.html)
